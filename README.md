@@ -41,4 +41,7 @@ Simply reset the filehub to factory settings using the tiny reset button or the 
 
 **extra**
 
-Have a look at the `EnterRouterMode` if you uncomment the section that enables telnet then the installation procedure will also enable telnet. Use with caution: it will use the default username (root) and possword (20080826) set by the manufacturer. 
+Have a look at the `EnterRouterMode` if you uncomment the section that enables telnet then the installation procedure will also enable telnet. Use with caution: it will use the default username (root) and possword (20080826) set by the manufacturer.
+
+**thanks**
+A few years ago i used a lot of info found on https://github.com/digidem/filehub-config, so many thanks to digidem. Both tools have developed since than, so it can't hurt to also see what that repo has to offer now.
