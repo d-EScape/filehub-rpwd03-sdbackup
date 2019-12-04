@@ -1,0 +1,6 @@
+#CPSYNCMOD
+if [ -d /data/UsbDisk2/Volume1/sd_autobackup/ ] && [ -d /data/UsbDisk1/Volume1/DCIM/ ]; then
+        /etc/udev/script/cpsync.sh /data/UsbDisk1/Volume1/ /data/UsbDisk2/Volume1/sd_autobackup/ &
+fi
+#ENDMOD
+
